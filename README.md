@@ -54,7 +54,7 @@ This repository contains solutions to two data engineering tasks:
 
 ### Repository Structure
 ```
-data-eng/
+code-kata/
 ├── Problem1_Parse_Fixed_Width_File/
 │   ├── fixed_width_generator.py
 │   ├── fixed_width_parser.py
